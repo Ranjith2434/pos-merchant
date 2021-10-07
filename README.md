@@ -8,8 +8,8 @@ Point Of Sale(POS) system website
 2. On click of the product image, a dialogue box will be opened where we need to input the 
 qty of the product. On click of "Add" button, the product will be added to the list of products. 
 
-![Add Product](https://github.com/Ranjith2434/pos-merchant/blob/master/pos-add-product.png?raw=true)
-![Product list](https://github.com/Ranjith2434/pos-merchant/blob/master/pos-product-list.png?raw=true)
+Add Product -  ![Add Product](https://github.com/Ranjith2434/pos-merchant/blob/master/pos-add-product.png?raw=true)
+Product List - ![Product list](https://github.com/Ranjith2434/pos-merchant/blob/master/pos-product-list.png?raw=true)
 
 3. On "Print" button click, an ajax call will be made to backend. On success/failure respective 
 popup message will be displayed.
